@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Google Cloud Certifications & Skill Badges
+
+### Build a Smart Cloud Application with Vibe Coding and MCP
+- **Issuer:** Google Cloud
+- **Level:** Intermediate
+- **Category:** Application Modernization
+- **Earned:** April 21, 2026
+
+Completed a Google Cloud skill badge focused on building smart
+cloud applications using vibe coding and Model Context Protocol (MCP).
